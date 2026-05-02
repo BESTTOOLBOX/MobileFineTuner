@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/b867ed90-aee9-4f5a-a91e-02dc2427e230
-
 # MobileFineTuner
 
 **A Unified End-to-End Framework for Fine-Tuning LLMs on Mobile Phones**
@@ -16,7 +14,7 @@ https://github.com/user-attachments/assets/b867ed90-aee9-4f5a-a91e-02dc2427e230
 
 https://github.com/user-attachments/assets/6ba63485-34ba-42b6-b9b1-ff980717c77b
 
-https://github.com/user-attachments/assets/adaad15a-d781-4b5f-ab61-2d64f774ba7b
+https://github.com/user-attachments/assets/b867ed90-aee9-4f5a-a91e-02dc2427e230
 
 
 ---
